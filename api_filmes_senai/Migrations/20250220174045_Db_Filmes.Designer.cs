@@ -12,7 +12,7 @@ using api_filmes_senai.Context;
 namespace api_filmes_senai.Migrations
 {
     [DbContext(typeof(Filmes_Context))]
-    [Migration("20250218184527_Db_Filmes")]
+    [Migration("20250220174045_Db_Filmes")]
     partial class Db_Filmes
     {
         /// <inheritdoc />
@@ -53,7 +53,7 @@ namespace api_filmes_senai.Migrations
 
                     b.Property<string>("Nome")
                         .IsRequired()
-                        .HasColumnType("VARACHAR (30)");
+                        .HasColumnType("VARCHAR (30)");
 
                     b.HasKey("IdGenero");
 

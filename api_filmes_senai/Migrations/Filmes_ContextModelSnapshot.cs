@@ -50,7 +50,7 @@ namespace api_filmes_senai.Migrations
 
                     b.Property<string>("Nome")
                         .IsRequired()
-                        .HasColumnType("VARACHAR (30)");
+                        .HasColumnType("VARCHAR (30)");
 
                     b.HasKey("IdGenero");
 

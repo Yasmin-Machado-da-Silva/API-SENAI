@@ -14,13 +14,12 @@ namespace api_filmes_senai.Context
         { 
         }   
         public DbSet<Genero> Genero { get; set; }
-        public DbSet<Filmes> Filmes { get; set; }
+        public DbSet<Filmes> Filme { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder OptionsBuilder)
         {
             if (!OptionsBuilder.IsConfigured) {
-                OptionsBuilder.UseSqlServer("Server=Yasmin; Database=Filmes; Integrated Security=True; TrustServerCertificate=true; ");
-              }
+            }
         }
 
     }

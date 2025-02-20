@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\39910759896\\Desktop\\api_filmes\\api_filmes_senai\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\39910759896\\Desktop\\api_filmes\\api_filmes_senai\\Migrations\\20250218191828_Db_Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250218191828_Db_Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{466CA6B6-452B-4874-B736-A26687AA1B22}|api_filmes_senai.csproj|c:\\users\\39910759896\\desktop\\api_filmes\\api_filmes_senai\\controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466CA6B6-452B-4874-B736-A26687AA1B22}|api_filmes_senai.csproj|solutionrelative:controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20250218191828_Db_Context.cs",
-              "DocumentMoniker": "C:\\Users\\39910759896\\Desktop\\api_filmes\\api_filmes_senai\\Migrations\\20250218191828_Db_Context.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250218191828_Db_Context.cs",
-              "ToolTip": "C:\\Users\\39910759896\\Desktop\\api_filmes\\api_filmes_senai\\Migrations\\20250218191828_Db_Context.cs",
-              "RelativeToolTip": "Migrations\\20250218191828_Db_Context.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "GeneroController.cs",
+              "DocumentMoniker": "C:\\Users\\39910759896\\Desktop\\api_filmes\\api_filmes_senai\\Controllers\\GeneroController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GeneroController.cs",
+              "ToolTip": "C:\\Users\\39910759896\\Desktop\\api_filmes\\api_filmes_senai\\Controllers\\GeneroController.cs*",
+              "RelativeToolTip": "Controllers\\GeneroController.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T19:18:29.062Z",
+              "WhenOpened": "2025-02-20T19:05:11.312Z",
               "EditorCaption": ""
             }
           ]
