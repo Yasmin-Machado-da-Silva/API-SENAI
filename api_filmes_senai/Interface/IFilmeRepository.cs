@@ -8,7 +8,15 @@ namespace api_filmes_senai.Interface
 
         List<Filmes> Listar();
 
+        void Atualizar(Guid id, Filmes filme);
+
         void Deleta(Guid id, Filmes filme);
+
+        void BuscarPorId(Guid id);
+
+        List <Filmes> ListarPorId(Guid idGenero);
+
+
 
        
 
