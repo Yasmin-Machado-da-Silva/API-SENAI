@@ -8,7 +8,7 @@ Projeto criado para aprendizado em desenvolvimento de APIs, usar o Postman para 
 ## 💻𝑇𝑒𝑐𝑛𝑜𝑙𝑜𝑔𝑖𝑎𝑠 𝑈𝑡𝑖𝑙𝑖𝑧𝑎𝑑𝑎𝑠🔍
 - **Banco de Dados**: SQL Server
 - **Ferramentas**: Postman para testes de requisições
-- **Linguagem**: C#
+- **Linguagem**: C# e JSON
   
 ## 💡𝐹𝑢𝑛𝑐𝑖𝑜𝑛𝑎𝑙𝑖𝑑𝑎𝑑𝑒𝑠✨
 - Testar requisições com Postman
