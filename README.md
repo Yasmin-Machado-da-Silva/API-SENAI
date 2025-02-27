@@ -21,10 +21,9 @@
 
 ## 📁Exemplo de Requisição🤖
 - Método: POST
-- URL: /api/generos-filmes
-- Body:
-
-<pre> { "nome": "Terror" } </pre>
+<pre> //URL= /api/generos-filmes//
+  { "nome": "Terror" } //= body//
+</pre>
 
 ## 🔗Proximos Passos➡️
 - Adicionar autenticação
