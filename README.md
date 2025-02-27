@@ -7,7 +7,7 @@
   <summary>
   ●-━━━━━━━━━━━━━━━━━-●
  </summary>
-❝Projeto criado para aprendizado no desenvolvimento de APIs utilizando C#. O objetivo é testar requisições no **Postaman**, criar tabelas e inserir dados no **SQL Server**.❞
+❝Projeto criado para aprendizado no desenvolvimento de APIs utilizando C#. O objetivo é testar requisições no Postaman, criar tabelas e inserir dados no SQL Server.❞
   <br>
 </details>
 
