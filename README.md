@@ -20,12 +20,11 @@
 2. Utilize o Postman para enviar requisições e testar os endpoints
 
 ## 📁Exemplo de Requisição🤖
+- Método: POST
+- URL: /api/generos-filmes
+- Body:
 
-**POST/api/generos-filmes**
-
-{
-"nome": "Terror"
-}
+<pre> { "nome": "Terror" } </pre>
 
 ## 🔗Proximos Passos➡️
 - Adicionar autenticação
