@@ -5,7 +5,7 @@
 ## 👾𝑺𝒐𝒃𝒓𝒆 𝒐 𝒑𝒓𝒐𝒋𝒆𝒕𝒐👾
 <details>
   <summary>
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  </summary>
 ❝Projeto criado para aprendizado no desenvolvimento de APIs utilizando C#. O objetivo é testar requisições no **Postaman**, criar tabelas e inserir dados no **SQL Server**.❞
   <br>
