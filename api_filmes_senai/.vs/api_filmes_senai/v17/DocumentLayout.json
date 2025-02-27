@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\39910759896\\Desktop\\api_filmes\\api_filmes_senai\\",
+  "WorkspaceRootPath": "C:\\Users\\39910759896\\Desktop\\API-SENAI\\api_filmes_senai\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{466CA6B6-452B-4874-B736-A26687AA1B22}|api_filmes_senai.csproj|c:\\users\\39910759896\\desktop\\api_filmes\\api_filmes_senai\\interface\\ifilmerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{466CA6B6-452B-4874-B736-A26687AA1B22}|api_filmes_senai.csproj|c:\\users\\39910759896\\desktop\\api-senai\\api_filmes_senai\\interface\\ifilmerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{466CA6B6-452B-4874-B736-A26687AA1B22}|api_filmes_senai.csproj|solutionrelative:interface\\ifilmerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "IFilmeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\39910759896\\Desktop\\api_filmes\\api_filmes_senai\\Interface\\IFilmeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\39910759896\\Desktop\\API-SENAI\\api_filmes_senai\\Interface\\IFilmeRepository.cs",
               "RelativeDocumentMoniker": "Interface\\IFilmeRepository.cs",
-              "ToolTip": "C:\\Users\\39910759896\\Desktop\\api_filmes\\api_filmes_senai\\Interface\\IFilmeRepository.cs",
+              "ToolTip": "C:\\Users\\39910759896\\Desktop\\API-SENAI\\api_filmes_senai\\Interface\\IFilmeRepository.cs",
               "RelativeToolTip": "Interface\\IFilmeRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
